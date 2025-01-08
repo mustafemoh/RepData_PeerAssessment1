@@ -4,6 +4,9 @@ output:
   html_document:
     keep_md: true
 ---
+## Introduction
+
+This is an R Markdown document created for the Coursera course "Reproducible Research" after completing "Peer Assessment 1." The assignment requires students to write an R Markdown document evidencing literate programming using Markdown and R programming techniques. Five primary questions deal with processing and analysing data. The data provided to be worked upon is called "activity monitoring data."
 
 
 ## Loading and preprocessing the data
